@@ -1,1 +1,2 @@
 Esta é uma linha de texto
+Sincronizando o nosso projeto com o github
